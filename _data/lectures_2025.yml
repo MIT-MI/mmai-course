@@ -255,6 +255,14 @@
   slides:
   topics:
   readings:
+  - '<a href="https://arxiv.org/pdf/2303.16199">LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention</a> <br/>'
+  - '<a href="https://arxiv.org/pdf/2403.14520">Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference</a> <br/>'
+  - '<a href="https://arxiv.org/abs/2401.06395">ModaVerse: Efficiently Transforming Modalities with LLMs</a> <br/>'
+  - '<a href="https://arxiv.org/pdf/2411.09439">Spider: Any-to-Many Multimodal LLM</a> <br/>'
+  - '<a href="https://arxiv.org/pdf/2402.05935">SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models</a> <br/>'
+  - '<a href="https://arxiv.org/pdf/2404.16821">How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites</a> <br/>'
+  - '<a href="https://arxiv.org/pdf/2309.05519">NExT-GPT: Any-to-Any Multimodal LLM</a> <br/>'
+  - '<a href="https://arxiv.org/pdf/2404.08347">Learning to rebalance multi-modal optimization by adaptively masking subnetworks</a> <br/>'
 
 - date: 4/29
   title: >
@@ -269,6 +277,19 @@
   slides:
   topics:
   readings:
+  - '<a href="https://arxiv.org/pdf/2502.09992">Large Language Diffusion Models</a><br/>'
+  - '<a href="https://arxiv.org/pdf/2402.01103">Compositional Generative Modeling: A Single Model is Not All You Need</a><br/>'
+  - '<a href="https://arxiv.org/abs/2210.02747">Flow Matching for Generative Modeling</a><br/>'
+  - '<a href="https://arxiv.org/abs/2402.18839">Extended Flow Matching: A Method of Conditional Generation with Generalized Continuity Equation</a> <br/>'
+  - '<a href="https://arxiv.org/abs/2412.06264">Flow Matching Guide and Code</a> <br/>'
+  - '<a href="https://arxiv.org/abs/2410.05954">Pyramidal Flow Matching for Efficient Video Generative Modeling</a> <br/>'
+  - '<a href="https://arxiv.org/abs/2504.01338">FlowMotion: Target-Predictive Conditional Flow Matching for Jitter-Reduced Text-to-Motion Generation</a> <br/>'
+  - '<a href="https://arxiv.org/abs/2504.13535">MusFlow: Multimodal Music Generation via Conditional Flow Matching</a> <br/>'
+  - '<a href="https://arxiv.org/abs/2311.07625">Unraveling the Connections Between Flow Matching and Diffusion Probabilistic Models:</a> <br/>'
+  - '<a href="https://arxiv.org/abs/2412.11024">Exploring Diffusion and Flow Matching Under Generator Matching</a> <br/>'
+  - '<a href="https://arxiv.org/abs/2405.14664">Fisher Flow Matching for Generative Modeling over Discrete Data</a> <br/>'
+  - '<a href="https://arxiv.org/abs/2405.20313">Sequence-Augmented SE(3)-Flow Matching for Conditional Protein Structure Generation</a> <br/>'
+  - '<a href="https://arxiv.org/abs/2503.19371">Flow to Learn: Flow Matching on Neural Network Parameters</a> <br/>'
 
 - date: 5/6
   title: >
