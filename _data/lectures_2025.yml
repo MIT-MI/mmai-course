@@ -12,7 +12,7 @@
 
 - date: 2/6
   title: >
-    Week 1 <strong>Introduction to AI Research</strong> <a href="lec1.2 - AI research.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 1 <strong>Introduction to AI Research</strong> <a href="lec1.2 - AI research.pdf">[slides]</a> <a href="https://youtu.be/104FX8MYKAM">[video]</a>
   slides:
   topics:
     - Introduction to AI and AI research <br/>
@@ -35,7 +35,7 @@
 
 - date: 2/14
   title: >
-    Week 2 <strong>Foundation 2: Practical AI tools</strong> <a href="Debugging Tips.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 2 <strong>Foundation 2: Practical AI tools</strong> <a href="Debugging Tips.pdf">[slides]</a> <a href="https://youtu.be/NOSuy0NOe9k">[video]</a>
   slides:
   topics:
     - Getting started with PyTorch <br/>
