@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /spring2025/projects/
+permalink: /spring2026/projects/
 title: Examples of Previous Project Reports
-description: Project reports from student teams who participated in previous editions of the How2AI course
+description: Project reports from student teams who participated in the How2AI course
 ---
 
 We list here only project reports that were publicly released by students. It should be noted that some of these links are for the follow-up submissions to conferences, after some revisions of the original project reports.

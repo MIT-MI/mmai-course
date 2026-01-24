@@ -1,0 +1,257 @@
+- date: 2/3
+  title: >
+    Week 1 <strong>Course introduction (All)</strong>
+  slides:
+  topics:
+    - Multimodal core challenges <br/>
+    - Course syllabus
+  readings:
+
+- date: 2/5
+  title: >
+    Week 1 <strong>Multimodal datasets (Paul)</strong>
+  slides:
+  topics:
+    - Research tasks and datasets <br/>
+    - Intro to AI research
+  readings:
+  hw: HW1 out
+
+- date: 2/10
+  title: >
+    Week 2 <strong>Datasets tutorial</strong>
+  slides:
+  topics:
+    - Data processing and visualization <br/>
+    - Pytorch and modeling
+  readings:
+
+- date: 2/12
+  title: >
+    Week 2 <strong>Unimodal representations (Paul)</strong>
+  slides:
+  topics:
+    - Dimensions of heterogeneity <br/>
+    - Common model architectures
+  readings:
+
+- date: 2/17
+  title: >
+    Week 3 <strong>Multimodal fusion (Dimitris)</strong>
+  slides:
+  topics:
+    - Cross-modal interactions <br/>
+    - Early and late fusion
+  readings:
+
+- date: 2/19
+  title: >
+    Week 3 <strong>Explainable fusion (Dimitris)</strong>
+  slides:
+  topics:
+    - Dynamic and explainable fusion <br/>
+    - Attention-based fusion
+  readings:
+  hw: HW1 due, HW2 out
+
+- date: 2/24
+  title: >
+    Week 4 <strong>Fusion tutorial</strong>
+  slides:
+  topics:
+    - Higher-order interactions <br/>
+    - Multimodal fusion models
+  readings:
+
+- date: 2/26
+  title: >
+    Week 4 <strong>Multimodal transformers (Paul)</strong>
+  slides:
+  topics:
+    - Self-attention & transformers <br/>
+    - Multimodal transformers
+  readings:
+
+- date: 3/3
+  title: >
+    Week 5 <strong>Multimodal foundation models (Paul)</strong>
+  slides:
+  topics:
+    - Multimodal pre-training <br/>
+    - Multimodal fine-tuning
+  readings:
+
+- date: 3/5
+  title: >
+    Week 5 <strong>Multimodal LLMs tutorial</strong>
+  slides:
+  topics:
+    - Instruction tuning <br/>
+    - Fine-tuning approaches
+  readings:
+  hw: HW2 due, HW3 out
+
+- date: 3/10
+  title: >
+    Week 6 <strong>Multimodal alignment (Paul)</strong>
+  slides:
+  topics:
+    - Multimodal grounding <br/>
+    - Aligned representations
+  readings:
+
+- date: 3/12
+  title: >
+    Week 6 <strong>Cross-modal transfer (Paul)</strong>
+  slides:
+  topics:
+    - Modality transfer and co-learning <br/>
+    - Self-training and multitask learning
+  readings:
+
+- date: 3/17
+  title: >
+    Week 7 <strong>Multimodal generation (Paul)</strong>
+  slides:
+  topics:
+    - Translation, summarization, creation <br/>
+    - Model evaluation and ethics
+  readings:
+
+- date: 3/19
+  title: >
+    Week 7 <strong>In-class midterm</strong>
+  slides:
+  topics:
+  readings:
+  hw: HW3 due
+
+- date: 3/24
+  title: >
+    Week 8 <strong>Spring Break – No lectures</strong>
+  slides:
+  topics:
+  readings:
+
+- date: 3/26
+  title: >
+    Week 8 <strong>Spring Break – No lectures</strong>
+  slides:
+  topics:
+  readings:
+
+- date: 3/31
+  title: >
+    Week 9 <strong>Multimodal reasoning (Paul)</strong>
+  slides:
+  topics:
+    - Reinforcement learning <br/>
+    - Multi-step reasoning
+  readings:
+
+- date: 4/2
+  title: >
+    Week 9 <strong>Reasoning tutorial</strong>
+  slides:
+  topics:
+    - Reasoning reward design <br/>
+    - Reinforcement learning training
+  readings:
+  hw: HW4 out
+
+- date: 4/7
+  title: >
+    Week 10 <strong>Prescriptive reasoning (Dimitris)</strong>
+  slides:
+  topics:
+    - Optimization & prediction <br/>
+    - Causal and counterfactual
+  readings:
+
+- date: 4/9
+  title: >
+    Week 10 <strong>Multimodal interaction (Paul)</strong>
+  slides:
+  topics:
+    - Interactive agents <br/>
+    - Interactive reasoning
+  readings:
+
+- date: 4/14
+  title: >
+    Week 11 <strong>Agents tutorial</strong>
+  slides:
+  topics:
+    - Multimodal agent pipelines <br/>
+    - Agent evaluation
+  readings:
+
+- date: 4/16
+  title: >
+    Week 11 <strong>Multimodal & design (Sang-Gook)</strong>
+  slides:
+  topics:
+    - Multimodal agents <br/>
+    - Applications in design
+  readings:
+  hw: HW4 due, HW5 out
+
+- date: 4/21
+  title: >
+    Week 12 <strong>Human-AI interaction (Paul)</strong>
+  slides:
+  topics:
+    - Interaction mediums <br/>
+    - Human-in-the-loop and safety
+  readings:
+
+- date: 4/23
+  title: >
+    Week 12 <strong>Multimodal & manufacturing (Sang-Gook)</strong>
+  slides:
+  topics:
+    - Multisensor fusion <br/>
+    - Applications in manufacturing
+  readings:
+
+- date: 4/28
+  title: >
+    Week 13 <strong>Multimodal & cities (Jinhua)</strong>
+  slides:
+  topics:
+    - Spatial and temporal fusion <br/>
+    - Applications in cities
+  readings:
+
+- date: 4/30
+  title: >
+    Week 13 <strong>Multimodal & transportation (Jinhua)</strong>
+  slides:
+  topics:
+    - Multimodal agents <br/>
+    - Applications in transportation
+  readings:
+  hw: HW5 due
+
+- date: 5/5
+  title: >
+    Week 14 <strong>New research directions</strong>
+  slides:
+  topics:
+    - Recent research in multimodal AI
+  readings:
+
+- date: 5/7
+  title: >
+    Week 14 <strong>New research directions</strong>
+  slides:
+  topics:
+    - Recent research in multimodal AI
+  readings:
+
+- date: 5/12
+  title: >
+    Week 15 <strong>Project presentations (final)</strong>
+  slides:
+  topics:
+  readings:

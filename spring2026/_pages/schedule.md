@@ -1,6 +1,6 @@
 ---
 layout: schedule
-permalink: /spring2025/schedule/
+permalink: /spring2026/schedule/
 title: Schedule
 ---
 
@@ -10,7 +10,7 @@ title: Schedule
 {% assign skip_classes = 0 %}
 {% assign prev_date = 0 %}
 
-{% for item in site.data.lectures_2025 %}
+{% for item in site.data.lectures_2026 %}
 {% if item.date %}
 {% assign lecture = item %}
 {% assign event_type = "upcoming" %}
