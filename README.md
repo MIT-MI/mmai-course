@@ -1,6 +1,6 @@
-# MAS.S60 - How to AI (Almost) Anything
+# MAS.S60 - Modeling: MultiModal Approaches
 
-Course webpage for MIT course MAS.S60, How to AI (Almost) Anything, Spring 2026
+Course webpage for MIT course MAS.S60, Modeling: MultiModal Approaches, Spring 2026
 
 #### Local Testing
 
