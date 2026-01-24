@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 author: MIT Multisensory Intelligence Group
-name: MAS.S60 How2AI
-title: How to AI (Almost) Anything
+name: MAS.S60 MMMA
+title: "Modeling: MultiModal Approaches"
 email:
 description: >
-  MAS.S60 - How to AI (Almost) Anything - MIT - Spring 2026
+  MAS.S60 - Modeling: MultiModal Approaches - MIT - Spring 2026
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
