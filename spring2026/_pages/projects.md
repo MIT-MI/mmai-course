@@ -7,8 +7,6 @@ description: Project reports from student teams who participated in the MMAI cou
 
 We list here only project reports that were publicly released by students. It should be noted that some of these links are for the follow-up submissions to conferences, after some revisions of the original project reports.
 
-If you previously took the MMAI course and ended up releasing a public version of your project, we would love to hear about it! Please contact the course instructor to be added to this list.
-
 Phoebe Chua, Cathy Mengying Fang, Takehiko Ohkawa, Raja Kushalnagar, Suranga Nanayakkara, Pattie Maes. [EmoSign: A Multimodal Dataset for Understanding Emotions in American Sign Language](https://arxiv.org/abs/2505.17090). arXiv 2025
 
 Chenyu Zhang, Minsol Kim, Shohreh Ghorbani, Jingyao Wu, Rosalind Picard, Patricia Maes, Paul Pu Liang. [When One Modality Sabotages the Others: A Diagnostic Lens on Multimodal Reasoning](https://arxiv.org/abs/2511.02794). NeurIPS 2025 Workshop
