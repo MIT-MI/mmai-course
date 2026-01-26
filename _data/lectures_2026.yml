@@ -1,6 +1,6 @@
 - date: 2/3
   title: >
-    Week 1 <strong>Course introduction (All)</strong>
+    Week 1 <strong>Course introduction</strong>
   slides:
   topics:
     - Multimodal core challenges <br/>
@@ -9,7 +9,7 @@
 
 - date: 2/5
   title: >
-    Week 1 <strong>Multimodal datasets (Paul)</strong>
+    Week 1 <strong>Multimodal datasets</strong>
   slides:
   topics:
     - Research tasks and datasets <br/>
@@ -28,7 +28,7 @@
 
 - date: 2/12
   title: >
-    Week 2 <strong>Unimodal representations (Paul)</strong>
+    Week 2 <strong>Unimodal representations</strong>
   slides:
   topics:
     - Dimensions of heterogeneity <br/>
@@ -37,7 +37,7 @@
 
 - date: 2/17
   title: >
-    Week 3 <strong>Multimodal fusion (Dimitris)</strong>
+    Week 3 <strong>Multimodal fusion</strong>
   slides:
   topics:
     - Cross-modal interactions <br/>
@@ -46,7 +46,7 @@
 
 - date: 2/19
   title: >
-    Week 3 <strong>Explainable fusion (Dimitris)</strong>
+    Week 3 <strong>Explainable fusion</strong>
   slides:
   topics:
     - Dynamic and explainable fusion <br/>
@@ -65,7 +65,7 @@
 
 - date: 2/26
   title: >
-    Week 4 <strong>Multimodal transformers (Paul)</strong>
+    Week 4 <strong>Multimodal transformers</strong>
   slides:
   topics:
     - Self-attention & transformers <br/>
@@ -74,7 +74,7 @@
 
 - date: 3/3
   title: >
-    Week 5 <strong>Multimodal foundation models (Paul)</strong>
+    Week 5 <strong>Multimodal foundation models</strong>
   slides:
   topics:
     - Multimodal pre-training <br/>
@@ -93,7 +93,7 @@
 
 - date: 3/10
   title: >
-    Week 6 <strong>Multimodal alignment (Paul)</strong>
+    Week 6 <strong>Multimodal alignment</strong>
   slides:
   topics:
     - Multimodal grounding <br/>
@@ -102,7 +102,7 @@
 
 - date: 3/12
   title: >
-    Week 6 <strong>Cross-modal transfer (Paul)</strong>
+    Week 6 <strong>Cross-modal transfer</strong>
   slides:
   topics:
     - Modality transfer and co-learning <br/>
@@ -111,7 +111,7 @@
 
 - date: 3/17
   title: >
-    Week 7 <strong>Multimodal generation (Paul)</strong>
+    Week 7 <strong>Multimodal generation</strong>
   slides:
   topics:
     - Translation, summarization, creation <br/>
@@ -142,7 +142,7 @@
 
 - date: 3/31
   title: >
-    Week 9 <strong>Multimodal reasoning (Paul)</strong>
+    Week 9 <strong>Multimodal reasoning</strong>
   slides:
   topics:
     - Reinforcement learning <br/>
@@ -161,7 +161,7 @@
 
 - date: 4/7
   title: >
-    Week 10 <strong>Prescriptive reasoning (Dimitris)</strong>
+    Week 10 <strong>Prescriptive reasoning</strong>
   slides:
   topics:
     - Optimization & prediction <br/>
@@ -170,7 +170,7 @@
 
 - date: 4/9
   title: >
-    Week 10 <strong>Multimodal interaction (Paul)</strong>
+    Week 10 <strong>Multimodal interaction</strong>
   slides:
   topics:
     - Interactive agents <br/>
@@ -188,7 +188,7 @@
 
 - date: 4/16
   title: >
-    Week 11 <strong>Multimodal & design (Sang-Gook)</strong>
+    Week 11 <strong>Multimodal & design</strong>
   slides:
   topics:
     - Multimodal agents <br/>
@@ -198,7 +198,7 @@
 
 - date: 4/21
   title: >
-    Week 12 <strong>Human-AI interaction (Paul)</strong>
+    Week 12 <strong>Human-AI interaction</strong>
   slides:
   topics:
     - Interaction mediums <br/>
@@ -207,7 +207,7 @@
 
 - date: 4/23
   title: >
-    Week 12 <strong>Multimodal & manufacturing (Sang-Gook)</strong>
+    Week 12 <strong>Multimodal & manufacturing</strong>
   slides:
   topics:
     - Multisensor fusion <br/>
@@ -216,7 +216,7 @@
 
 - date: 4/28
   title: >
-    Week 13 <strong>Multimodal & cities (Jinhua)</strong>
+    Week 13 <strong>Multimodal & cities</strong>
   slides:
   topics:
     - Spatial and temporal fusion <br/>
@@ -225,7 +225,7 @@
 
 - date: 4/30
   title: >
-    Week 13 <strong>Multimodal & transportation (Jinhua)</strong>
+    Week 13 <strong>Multimodal & transportation</strong>
   slides:
   topics:
     - Multimodal agents <br/>
@@ -251,7 +251,7 @@
 
 - date: 5/12
   title: >
-    Week 15 <strong>Project presentations (final)</strong>
+    Week 15 <strong>Project presentations</strong>
   slides:
   topics:
   readings:
