@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 author: MIT Multisensory Intelligence Group
-name: MAS.S60/6.S985 MMMA
-title: "Modeling: MultiModal Approaches"
+name: MMAI
+title: "Modeling: MultiModal AI"
 email:
 description: >
-  MAS.S60 - Modeling: MultiModal Approaches - MIT - Spring 2026
+  Modeling: MultiModal AI - MIT - Spring 2026
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
