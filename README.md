@@ -1,6 +1,6 @@
-# MAS.S60 - Modeling: MultiModal Approaches
+# MAS.S60 - Modeling: MultiModal AI
 
-Course webpage for MIT course MAS.S60, Modeling: MultiModal Approaches, Spring 2026
+Course webpage for MIT course MAS.S60, Modeling: MultiModal AI, Spring 2026
 
 #### Local Testing
 
