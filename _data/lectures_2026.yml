@@ -25,11 +25,11 @@
 
 - date: 2/10
   title: >
-    Week 2.1 <strong>Datasets tutorial</strong> <a href="lec2.1 - AI tutorial.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 2.1 <strong>AI tutorial</strong> <a href="lec2.1 - AI tutorial.pdf">[slides]</a> <a href=" ">[video]</a>
   slides:
   topics:
     - Data processing and visualization <br/>
-    - Pytorch and modeling
+    - Pytorch and AI modeling
   readings:
     - '<a href="https://karpathy.github.io/2019/04/25/recipe/">A Recipe for Training Neural Networks</a> <br/>'
     - '<a href="https://colab.research.google.com/drive/1EDsjYRrAiujUew0GRJ_hyVoNMsSDnlnx?usp=sharing">Fine-tuning a Code LLM on Custom Code on a single GPU</a> <br/>'
