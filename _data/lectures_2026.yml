@@ -251,6 +251,8 @@
     - Modality transfer and co-learning <br/>
     - Self-training and multitask learning
   readings:
+    - '<a href="https://arxiv.org/abs/2203.01311">High-Modality Multimodal Transformer: Quantifying Modality & Interaction Heterogeneity for High-Modality Representation Learning</a> <br/>'
+    - '<a href="https://arxiv.org/abs/2502.18439">MAPoRL2: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning</a> <br/>'
     - '<a href="https://arxiv.org/abs/2303.00915v3">LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day</a> <br/>'
     - '<a href="https://arxiv.org/abs/2309.11499">DreamLLM: Synergistic Multimodal Comprehension and Creation</a> <br/>'
     - '<a href="https://arxiv.org/abs/2303.03378">PaLM-E: An Embodied Multimodal Language Model</a> <br/>'
@@ -319,7 +321,7 @@
     - Continual learning <br/>
     - Self-evolution and optimization    
   readings:
-    - '<a href="https://quao627.github.io/blog/self-evolving-agents/">Blog Post</a> <br/>'
+    - '<a href="https://quao627.github.io/blog/self-evolving-agents/">Blog Post on Self-Evolving AI</a> <br/>'
     - '<a href="https://arxiv.org/abs/2506.13131">AlphaEvolve: A Coding Agent for Scientific and Algorithmic Discovery</a> <br/>'
     - '<a href="https://arxiv.org/abs/2604.01658">CORAL: Towards Autonomous Multi-agent Evolution for Open-ended Discovery</a> <br/>'
 
