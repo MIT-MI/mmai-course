@@ -235,7 +235,12 @@
     - Interactive agents <br/>
     - Interactive reasoning
   readings:
-    - '<a href="https://arxiv.org/abs/2410.19100">VideoWebArena: Evaluating Multimodal Agents on Video Understanding Web Tasks</a> <br/>'
+    - '<a href="https://arxiv.org/abs/2401.13649">VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks</a> <br/>'
+    - '<a href="https://arxiv.org/abs/2410.23218">OS-ATLAS: A Foundation Action Model for Generalist GUI Agents</a> <br/>'
+    - '<a href="https://arxiv.org/abs/2306.06070">Mind2Web: Towards a Generalist Agent for the Web</a> <br/>'
+    - '<a href="https://arxiv.org/abs/2407.01476">Tree Search for Language Model Agents</a> <br/>'
+    - '<a href="https://arxiv.org/abs/2312.14925">A Survey of Reinforcement Learning from Human Feedback</a> <br/>'
+    - '<a href="https://arxiv.org/abs/2506.15841">MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents</a> <br/>'
     - '<a href="https://arxiv.org/abs/2406.09246">OpenVLA: An Open-Source Vision-Language-Action Model</a> <br/>'
 
 - date: 4/9
@@ -246,9 +251,9 @@
     - Modality transfer and co-learning <br/>
     - Self-training and multitask learning
   readings:
-    - <a href="https://arxiv.org/abs/2303.00915v3">LLaVA-Med&#58; Training a Large Language-and-Vision Assistant for Biomedicine in One Day</a> <br/>
-    - <a href="https://arxiv.org/abs/2309.11499">DreamLLM&#58; Synergistic Multimodal Comprehension and Creation</a> <br/>
-    - <a href="https://arxiv.org/abs/2303.03378">PaLM-E&#58; An Embodied Multimodal Language Model</a> <br/>
+    - '<a href="https://arxiv.org/abs/2303.00915v3">LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day</a> <br/>'
+    - '<a href="https://arxiv.org/abs/2309.11499">DreamLLM: Synergistic Multimodal Comprehension and Creation</a> <br/>'
+    - '<a href="https://arxiv.org/abs/2303.03378">PaLM-E: An Embodied Multimodal Language Model</a> <br/>'
 
 - date: 4/14
   title: >
@@ -314,6 +319,9 @@
     - Continual learning <br/>
     - Self-evolution and optimization    
   readings:
+    - '<a href="https://quao627.github.io/blog/self-evolving-agents/">Blog Post</a> <br/>'
+    - '<a href="https://arxiv.org/abs/2506.13131">AlphaEvolve: A Coding Agent for Scientific and Algorithmic Discovery</a> <br/>'
+    - '<a href="https://arxiv.org/abs/2604.01658">CORAL: Towards Autonomous Multi-agent Evolution for Open-ended Discovery</a> <br/>'
 
 - date: 5/7
   title: >
@@ -324,6 +332,10 @@
     - Human-AI interaction
   readings:
     - '<a href="https://arxiv.org/abs/2503.16434">Interactive Sketchpad: A Multimodal Tutoring System for Collaborative, Visual Problem-Solving</a> <br/>'
+    - '<a href="https://arxiv.org/abs/2604.01650">AromaGen: Interactive Generation of Rich Olfactory Experiences with Multimodal Language Models</a> <br/>'
+    - '<a href="https://arxiv.org/abs/2506.00239">Smellnet: A Large-scale Dataset for Real-world Smell Recognition</a> <br/>'
+    - '<a href="https://arxiv.org/abs/2512.16842">Opentouch: Bringing Full-hand Touch to Real-world Interaction</a> <br/>'
+    - '<a href="https://dl.acm.org/doi/abs/10.1145/3411764.3445300">Stereo-Smell via Electrical Trigeminal Stimulation</a> <br/>'
     - '<a href="https://arxiv.org/abs/2402.11753">ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs</a> <br/>'
     - '<a href="https://dl.acm.org/doi/abs/10.1145/3290605.3300233">Guidelines for Human-AI Interaction</a> <br/>'
 
