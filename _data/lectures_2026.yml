@@ -37,7 +37,7 @@
 
 - date: 2/12
   title: >
-    Week 2.2 <strong>Unimodal representations</strong> <a href="lec2.2 - heterogeneity.pdf">[slides]</a> <a href="https://youtu.be/CH2_US07OdA?si=HJWc6IYG3s_VcywV">[video]</a>
+    Week 2.2 <strong>Data and heterogeneity</strong> <a href="lec2.2 - heterogeneity.pdf">[slides]</a> <a href="https://youtu.be/CH2_US07OdA?si=HJWc6IYG3s_VcywV">[video]</a>
   slides:
   topics:
     - Dimensions of heterogeneity <br/>
@@ -72,7 +72,7 @@
 
 - date: 2/24
   title: >
-    Week 4.1 <strong>More fusion</strong> <a href="lec4.1 - more fusion.pdf">[slides]</a> <a href="https://youtu.be/0SOieOIe4HI?si=6BQZMH0OWOeLDaaR">[video]</a>
+    Week 4.1 <strong>More multimodal fusion</strong> <a href="lec4.1 - more fusion.pdf">[slides]</a> <a href="https://youtu.be/0SOieOIe4HI?si=6BQZMH0OWOeLDaaR">[video]</a>
   slides:
   topics:
     - Higher-order interactions <br/>
