@@ -1,6 +1,6 @@
 - date: 2/3
   title: >
-    Week 1.1 <strong>Course introduction</strong> <a href="lec1.1 - introduction.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 1.1 <strong>Course introduction</strong> <a href="lec1.1 - introduction.pdf">[slides]</a> <a href="https://youtu.be/Xm2crsD5ngA?si=tC351Sp1iXomB7p-">[video]</a>
   slides:
   topics:
     - Multimodal core challenges <br/>
@@ -12,7 +12,7 @@
 
 - date: 2/5
   title: >
-    Week 1.2 <strong>Multimodal datasets</strong> <a href="lec1.2 - data.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 1.2 <strong>Multimodal datasets</strong> <a href="lec1.2 - data.pdf">[slides]</a> <a href="https://youtu.be/zlTCAER4z9A?si=NwmrRx9Xrcx3el7t">[video]</a>
   slides:
   topics:
     - Research tasks and datasets <br/>
@@ -25,7 +25,7 @@
 
 - date: 2/10
   title: >
-    Week 2.1 <strong>AI tutorial</strong> <a href="lec2.1 - AI tutorial.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 2.1 <strong>AI tutorial</strong> <a href="lec2.1 - AI tutorial.pdf">[slides]</a>
   slides:
   topics:
     - Data processing and visualization <br/>
@@ -37,7 +37,7 @@
 
 - date: 2/12
   title: >
-    Week 2.2 <strong>Unimodal representations</strong> <a href="lec2.2 - heterogeneity.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 2.2 <strong>Unimodal representations</strong> <a href="lec2.2 - heterogeneity.pdf">[slides]</a> <a href="https://youtu.be/CH2_US07OdA?si=HJWc6IYG3s_VcywV">[video]</a>
   slides:
   topics:
     - Dimensions of heterogeneity <br/>
@@ -60,7 +60,7 @@
 
 - date: 2/19
   title: >
-    Week 3.2 <strong>Multimodal fusion</strong> <a href="lec3.2 - fusion.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 3.2 <strong>Multimodal fusion</strong> <a href="lec3.2 - fusion.pdf">[slides]</a>
   slides:
   topics:
     - Early and late fusion <br/>
@@ -72,7 +72,7 @@
 
 - date: 2/24
   title: >
-    Week 4.1 <strong>More fusion</strong> <a href="lec4.1 - more fusion.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 4.1 <strong>More fusion</strong> <a href="lec4.1 - more fusion.pdf">[slides]</a> <a href="https://youtu.be/N2V7doXhWGo?si=3yn1TiSMVBJrdLV2">[video]</a>
   slides:
   topics:
     - Higher-order interactions <br/>
@@ -87,7 +87,7 @@
 
 - date: 2/26
   title: >
-    Week 4.2 <strong>Multimodal alignment</strong> <a href="lec4.2 - alignment.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 4.2 <strong>Multimodal alignment</strong> <a href="lec4.2 - alignment.pdf">[slides]</a> <a href="https://youtu.be/u-H43tRgYJg?si=AYQizgQHpf1Smlk1">[video]</a>
   slides:
   topics:
     - Multimodal grounding <br/>
@@ -104,7 +104,7 @@
 
 - date: 3/3
   title: >
-    Week 5.1 <strong>Large multimodal models</strong> <a href="lec5.1 - large multimodal models.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 5.1 <strong>Large multimodal models</strong> <a href="lec5.1 - large multimodal models.pdf">[slides]</a> <a href="https://youtu.be/H9nvkyTsrnI?si=tjASlXudKbRcUefh">[video]</a>
   slides:
   topics:
     - Multimodal transformers <br/>
@@ -123,7 +123,7 @@
 
 - date: 3/5
   title: >
-    Week 5.2 <strong>Multimodal LLMs tutorial</strong> <a href="https://colab.research.google.com/drive/1fgUtzrorkGT8FdIY77Y_V4vQRULPAC5d">[slides]</a> <a href=" ">[video]</a>
+    Week 5.2 <strong>Multimodal LLMs tutorial</strong> <a href="https://colab.research.google.com/drive/1fgUtzrorkGT8FdIY77Y_V4vQRULPAC5d">[slides]</a>
   slides:
   topics:
     - Fine-tuning <br/>
@@ -145,7 +145,7 @@
 
 - date: 3/10
   title: >
-    Week 6.1 <strong>Multimodal generation</strong> <a href="lec6.1 - generative AI.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 6.1 <strong>Multimodal generation</strong> <a href="lec6.1 - generative AI.pdf">[slides]</a> <a href="https://youtu.be/KlHIR7lT-mo?si=su5lIX08m-BvMcA1">[video]</a>
   slides:
   topics:
     - Translation, summarization, creation <br/>
@@ -156,7 +156,7 @@
     
 - date: 3/12
   title: >
-    Week 6.2 <strong>Modern generative AI</strong> <a href="lec6.2 - more generative AI.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 6.2 <strong>Modern generative AI</strong> <a href="lec6.2 - more generative AI.pdf">[slides]</a> <a href="https://youtu.be/LGBQ0c_4HBA?si=y2ilL_6QdadmambK">[video]</a>
   slides:
   topics:
     - VAEs, diffusion, flow models <br/>
@@ -175,7 +175,7 @@
 
 - date: 3/17
   title: >
-    Week 7.1 <strong>Midterm review</strong> <a href="lec7.1 - midterm review.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 7.1 <strong>Midterm review</strong> <a href="lec7.1 - midterm review.pdf">[slides]</a>
   slides:
   topics:
     - Multimodal fusion & alignment <br/>
@@ -206,7 +206,7 @@
 
 - date: 3/31
   title: >
-    Week 9.1 <strong>Multimodal reasoning</strong> <a href="lec9.1 - reasoning.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 9.1 <strong>Multimodal reasoning</strong> <a href="lec9.1 - reasoning.pdf">[slides]</a> <a href="https://youtu.be/Vhe_bX8mV2s?si=V65452DBEHXaEWbW">[video]</a>
   slides:
   topics:
     - Reinforcement learning <br/>
@@ -219,7 +219,7 @@
 
 - date: 4/2
   title: >
-    Week 9.2 <strong>Explainable reasoning</strong> <a href="lec9.2 - explainable.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 9.2 <strong>Explainable reasoning</strong> <a href="lec9.2 - explainable.pdf">[slides]</a>
   slides:
   topics:
     - Explainable AI <br/>
@@ -229,7 +229,7 @@
 
 - date: 4/7
   title: >
-    Week 10.1 <strong>Multimodal interaction</strong> <a href="lec10.1 - interaction.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 10.1 <strong>Multimodal interaction</strong> <a href="lec10.1 - interaction.pdf">[slides]</a> <a href="https://youtu.be/Sk_TYpA6DWA?si=xI7BVwWyEQb31Wg8">[video]</a>
   slides:
   topics:
     - Interactive agents <br/>
@@ -245,7 +245,7 @@
 
 - date: 4/9
   title: >
-    Week 10.2 <strong>Cross-modal transfer</strong> <a href="lec10.2 - crossmodal.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 10.2 <strong>Cross-modal transfer</strong> <a href="lec10.2 - crossmodal.pdf">[slides]</a> <a href="https://youtu.be/IDaMEG_zY6A?si=nfHVm8rBMwi5zljP">[video]</a>
   slides:
   topics:
     - Modality transfer and co-learning <br/>
@@ -259,7 +259,7 @@
 
 - date: 4/14
   title: >
-    Week 11.1 <strong>Multimodal & manufacturing</strong> <a href="lec11.1 - manufacturing.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 11.1 <strong>Multimodal & manufacturing</strong> <a href="lec11.1 - manufacturing.pdf">[slides]</a>
   slides:
   topics:
     - Multisensor fusion <br/>
@@ -268,7 +268,7 @@
 
 - date: 4/16
   title: >
-    Week 11.2 <strong>Multimodal & design</strong> <a href="lec11.2 - design.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 11.2 <strong>Multimodal & design</strong> <a href="lec11.2 - design.pdf">[slides]</a>
   slides:
   topics:
     - Multimodal agents <br/>
@@ -278,7 +278,7 @@
 
 - date: 4/21
   title: >
-    Week 12.1 <strong>Prescriptive modeling</strong> <a href="lec12.1 - prescriptive.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 12.1 <strong>Prescriptive modeling</strong> <a href="lec12.1 - prescriptive.pdf">[slides]</a>
   slides:
   topics:
     - Optimization & prediction <br/>
@@ -287,7 +287,7 @@
 
 - date: 4/23
   title: >
-    Week 12.2 <strong>Agents tutorial</strong> <a href="lec12.2 - agents.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 12.2 <strong>Agents tutorial</strong> <a href="lec12.2 - agents.pdf">[slides]</a>
   slides:
   topics:
     - Multimodal agent pipelines <br/>
@@ -296,7 +296,7 @@
 
 - date: 4/28
   title: >
-    Week 13.1 <strong>Multimodal & cities</strong> <a href="lec13.1 - cities.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 13.1 <strong>Multimodal & cities</strong> <a href="lec13.1 - cities.pdf">[slides]</a>
   slides:
   topics:
     - Spatial and temporal fusion <br/>
@@ -305,7 +305,7 @@
 
 - date: 4/30
   title: >
-    Week 13.2 <strong>Multimodal & transportation</strong> <a href="lec13.2 - transportation.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 13.2 <strong>Multimodal & transportation</strong> <a href="lec13.2 - transportation.pdf">[slides]</a>
   slides:
   topics:
     - Autonomous vehicles <br/>
@@ -315,7 +315,7 @@
 
 - date: 5/5
   title: >
-    Week 14.1 <strong>Self-evolving AI</strong> <a href="lec14.1 - advanced topics.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 14.1 <strong>Self-evolving AI</strong> <a href="lec14.1 - advanced topics.pdf">[slides]</a> <a href="https://youtu.be/FhcHTSjvuKk?si=gJGiKJrwO3FYakcE">[video]</a>
   slides:
   topics:
     - Continual learning <br/>
@@ -327,7 +327,7 @@
 
 - date: 5/7
   title: >
-    Week 14.2 <strong>AI for new senses</strong> <a href="lec14.2 - human.pdf">[slides]</a> <a href=" ">[video]</a>
+    Week 14.2 <strong>AI for new senses</strong> <a href="lec14.2 - human.pdf">[slides]</a> <a href="https://youtu.be/UJra8aMCHXg?si=c_jwf59wZGplm9zA">[video]</a>
   slides:
   topics:
     - Touch, smell, taste <br/>
